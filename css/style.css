@@ -1,0 +1,30 @@
+/* propiedad creada por el desarrollador */
+.red-text{
+    color: rgb(226, 0, 0);
+    font: arial;
+}
+
+.blue-text{
+    color: rgb(4, 0, 226);
+    font: arial;
+    text-shadow: 3px 3px 5px rgb(0, 0, 0);
+}
+
+body{
+    background-color: aquamarine;
+    margin: 0 50px;
+}
+
+.card{
+    background-color: white;
+    border: 0px solid black;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding: 12px;
+    box-shadow: 3px 3px 5px black;
+
+}
+
+.card h3{
+    text-align: center;
+}
